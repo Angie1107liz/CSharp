@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="dbDiagram" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="dbDiagramContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="productos" EntityType="dbDiagram.producto" />
+    <EntitySet Name="CategoriaSet" EntityType="dbDiagram.Categoria" />
+    <AssociationSet Name="productoCategoria" Association="dbDiagram.productoCategoria">
+      <End Role="producto" EntitySet="productos" />
+      <End Role="Categoria" EntitySet="CategoriaSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="producto">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" Nullable="false" />
+    <Property Name="Descripcion" Type="String" Nullable="false" />
+    <Property Name="Precio" Type="Decimal" Nullable="false" />
+    <Property Name="Marca" Type="String" Nullable="false" />
+    <Property Name="Activo" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Categoria" Relationship="dbDiagram.productoCategoria" FromRole="producto" ToRole="Categoria" />
+  </EntityType>
+  <EntityType Name="Categoria">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" Nullable="false" />
+    <Property Name="Codigo" Type="String" Nullable="false" />
+    <NavigationProperty Name="producto" Relationship="dbDiagram.productoCategoria" FromRole="Categoria" ToRole="producto" />
+    <Property Name="Activo" Type="String" Nullable="false" />
+  </EntityType>
+  <Association Name="productoCategoria">
+    <End Type="dbDiagram.producto" Role="producto" Multiplicity="*" />
+    <End Type="dbDiagram.Categoria" Role="Categoria" Multiplicity="1" />
+  </Association>
+</Schema>

@@ -1,0 +1,15 @@
+C:\Users\Angie\OneDrive\Documentos\cSharp\HelloWord\bin\Debug\net8.0\HelloWord.exe
+C:\Users\Angie\OneDrive\Documentos\cSharp\HelloWord\bin\Debug\net8.0\HelloWord.deps.json
+C:\Users\Angie\OneDrive\Documentos\cSharp\HelloWord\bin\Debug\net8.0\HelloWord.runtimeconfig.json
+C:\Users\Angie\OneDrive\Documentos\cSharp\HelloWord\bin\Debug\net8.0\HelloWord.dll
+C:\Users\Angie\OneDrive\Documentos\cSharp\HelloWord\bin\Debug\net8.0\HelloWord.pdb
+C:\Users\Angie\OneDrive\Documentos\cSharp\HelloWord\obj\Debug\net8.0\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angie\OneDrive\Documentos\cSharp\HelloWord\obj\Debug\net8.0\HelloWord.AssemblyInfoInputs.cache
+C:\Users\Angie\OneDrive\Documentos\cSharp\HelloWord\obj\Debug\net8.0\HelloWord.AssemblyInfo.cs
+C:\Users\Angie\OneDrive\Documentos\cSharp\HelloWord\obj\Debug\net8.0\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\Angie\OneDrive\Documentos\cSharp\HelloWord\obj\Debug\net8.0\HelloWord.sourcelink.json
+C:\Users\Angie\OneDrive\Documentos\cSharp\HelloWord\obj\Debug\net8.0\HelloWord.dll
+C:\Users\Angie\OneDrive\Documentos\cSharp\HelloWord\obj\Debug\net8.0\refint\HelloWord.dll
+C:\Users\Angie\OneDrive\Documentos\cSharp\HelloWord\obj\Debug\net8.0\HelloWord.pdb
+C:\Users\Angie\OneDrive\Documentos\cSharp\HelloWord\obj\Debug\net8.0\HelloWord.genruntimeconfig.cache
+C:\Users\Angie\OneDrive\Documentos\cSharp\HelloWord\obj\Debug\net8.0\ref\HelloWord.dll
