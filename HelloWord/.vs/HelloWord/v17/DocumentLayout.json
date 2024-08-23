@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Angie\\OneDrive\\Documentos\\cSharp\\HelloWord\\",
+  "WorkspaceRootPath": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\HelloWord\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angie\\OneDrive\\Documentos\\cSharp\\HelloWord\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D76D0741-7697-42A1-BD8A-9C39093A6A6F}|HelloWord.csproj|c:\\users\\angie\\onedrive\\documentos\\csharp\\helloword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76D0741-7697-42A1-BD8A-9C39093A6A6F}|HelloWord.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Documentos\\cSharp\\HelloWord\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\HelloWord\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Documentos\\cSharp\\HelloWord\\Program.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\HelloWord\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAAADkAAAAAAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAE0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T19:20:21.495Z",
               "EditorCaption": ""

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Angie\\OneDrive\\Documentos\\cSharp\\ModuleSecurity\\Entity\\Entity.csproj": {}
+    "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Entity\\Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Angie\\OneDrive\\Documentos\\cSharp\\ModuleSecurity\\Entity\\Entity.csproj": {
+    "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Angie\\OneDrive\\Documentos\\cSharp\\ModuleSecurity\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\Angie\\OneDrive\\Documentos\\cSharp\\ModuleSecurity\\Entity\\Entity.csproj",
+        "projectPath": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\Angie\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Angie\\OneDrive\\Documentos\\cSharp\\ModuleSecurity\\Entity\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\Parcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5475AE3-359B-443B-A072-7FE5D80A2011}|ejercicioParcial\\ejercicioParcial.csproj|c:\\users\\angie\\onedrive\\documentos\\csharp\\parcial\\ejercicioparcial\\entity\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5475AE3-359B-443B-A072-7FE5D80A2011}|ejercicioParcial\\ejercicioParcial.csproj|solutionrelative:ejercicioparcial\\entity\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5475AE3-359B-443B-A072-7FE5D80A2011}|ejercicioParcial\\ejercicioParcial.csproj|c:\\users\\angie\\onedrive\\documentos\\csharp\\parcial\\ejercicioparcial\\entity\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5475AE3-359B-443B-A072-7FE5D80A2011}|ejercicioParcial\\ejercicioParcial.csproj|solutionrelative:ejercicioparcial\\entity\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5475AE3-359B-443B-A072-7FE5D80A2011}|ejercicioParcial\\ejercicioParcial.csproj|c:\\users\\angie\\onedrive\\documentos\\csharp\\parcial\\ejercicioparcial\\interfaces\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5475AE3-359B-443B-A072-7FE5D80A2011}|ejercicioParcial\\ejercicioParcial.csproj|solutionrelative:ejercicioparcial\\interfaces\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5475AE3-359B-443B-A072-7FE5D80A2011}|ejercicioParcial\\ejercicioParcial.csproj|c:\\users\\angie\\onedrive\\documentos\\csharp\\parcial\\ejercicioparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5475AE3-359B-443B-A072-7FE5D80A2011}|ejercicioParcial\\ejercicioParcial.csproj|solutionrelative:ejercicioparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\Parcial\\ejercicioParcial\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicioParcial\\Program.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\Parcial\\ejercicioParcial\\Program.cs",
+              "RelativeToolTip": "ejercicioParcial\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T22:56:33.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\Parcial\\ejercicioParcial\\Entity\\Persona.cs",
+              "RelativeDocumentMoniker": "ejercicioParcial\\Entity\\Persona.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\Parcial\\ejercicioParcial\\Entity\\Persona.cs",
+              "RelativeToolTip": "ejercicioParcial\\Entity\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T20:48:33.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\Parcial\\ejercicioParcial\\Entity\\Empleado.cs",
+              "RelativeDocumentMoniker": "ejercicioParcial\\Entity\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\Parcial\\ejercicioParcial\\Entity\\Empleado.cs",
+              "RelativeToolTip": "ejercicioParcial\\Entity\\Empleado.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA/wBIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T01:34:50.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICalculable.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\Parcial\\ejercicioParcial\\Interfaces\\ICalculable.cs",
+              "RelativeDocumentMoniker": "ejercicioParcial\\Interfaces\\ICalculable.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\Parcial\\ejercicioParcial\\Interfaces\\ICalculable.cs",
+              "RelativeToolTip": "ejercicioParcial\\Interfaces\\ICalculable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:51:37.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

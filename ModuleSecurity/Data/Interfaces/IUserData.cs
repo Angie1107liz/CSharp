@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entity.Dto;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,7 @@ namespace Data.Interfaces
     {
         public Task Delete(int id);
         public Task<IEnumerable<DataSelectDto>> GetAllSelect();
-        public Task<User> GetById(int id);
+        public Task<user> GetById(int id);
         public Task<PagedListDto<UserDto>> GetDataTable(QueryFilterDto filter);
         public Task<User> Save(User entity);
         public Task Update(User entity);
