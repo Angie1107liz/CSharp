@@ -1,5 +1,0 @@
-C:\Users\Angie\OneDrive\Documentos\cSharp\ModuleSecurity\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Angie\OneDrive\Documentos\cSharp\ModuleSecurity\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
-C:\Users\Angie\OneDrive\Documentos\cSharp\ModuleSecurity\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
-C:\Users\Angie\OneDrive\Documentos\cSharp\ModuleSecurity\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
-C:\Users\Angie\OneDrive\Documentos\cSharp\ModuleSecurity\Data\obj\Debug\net8.0\Data.sourcelink.json

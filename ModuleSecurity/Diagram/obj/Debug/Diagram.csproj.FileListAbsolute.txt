@@ -1,7 +1,0 @@
-C:\Users\Angie\OneDrive\Documentos\cSharp\ModuleSecurity\Diagram\bin\Debug\Diagram.dll.config
-C:\Users\Angie\OneDrive\Documentos\cSharp\ModuleSecurity\Diagram\bin\Debug\Diagram.dll
-C:\Users\Angie\OneDrive\Documentos\cSharp\ModuleSecurity\Diagram\bin\Debug\Diagram.pdb
-C:\Users\Angie\OneDrive\Documentos\cSharp\ModuleSecurity\Diagram\obj\Debug\Diagram.csproj.AssemblyReference.cache
-C:\Users\Angie\OneDrive\Documentos\cSharp\ModuleSecurity\Diagram\obj\Debug\Diagram.csproj.CoreCompileInputs.cache
-C:\Users\Angie\OneDrive\Documentos\cSharp\ModuleSecurity\Diagram\obj\Debug\Diagram.dll
-C:\Users\Angie\OneDrive\Documentos\cSharp\ModuleSecurity\Diagram\obj\Debug\Diagram.pdb
