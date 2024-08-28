@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C743D5-F612-49D1-8ADD-23E8F10C878A}|Business\\Business.csproj|c:\\users\\angie\\onedrive\\documentos\\csharp\\modulesecurity\\business\\implements\\personbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C743D5-F612-49D1-8ADD-23E8F10C878A}|Business\\Business.csproj|solutionrelative:business\\implements\\personbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D82725-F347-4B18-8C5D-C8851AF24596}|Diagram\\Diagram.csproj|c:\\users\\angie\\onedrive\\documentos\\csharp\\modulesecurity\\diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B8D82725-F347-4B18-8C5D-C8851AF24596}|Diagram\\Diagram.csproj|solutionrelative:diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C743D5-F612-49D1-8ADD-23E8F10C878A}|Business\\Business.csproj|c:\\users\\angie\\onedrive\\documentos\\csharp\\modulesecurity\\business\\implements\\modulebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C743D5-F612-49D1-8ADD-23E8F10C878A}|Business\\Business.csproj|solutionrelative:business\\implements\\modulebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C743D5-F612-49D1-8ADD-23E8F10C878A}|Business\\Business.csproj|c:\\users\\angie\\onedrive\\documentos\\csharp\\modulesecurity\\business\\interfaces\\ipersonbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C743D5-F612-49D1-8ADD-23E8F10C878A}|Business\\Business.csproj|solutionrelative:business\\interfaces\\ipersonbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C743D5-F612-49D1-8ADD-23E8F10C878A}|Business\\Business.csproj|c:\\users\\angie\\onedrive\\documentos\\csharp\\modulesecurity\\business\\implements\\viewbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C743D5-F612-49D1-8ADD-23E8F10C878A}|Business\\Business.csproj|solutionrelative:business\\implements\\viewbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C743D5-F612-49D1-8ADD-23E8F10C878A}|Business\\Business.csproj|c:\\users\\angie\\onedrive\\documentos\\csharp\\modulesecurity\\business\\interfaces\\iuserrolebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C743D5-F612-49D1-8ADD-23E8F10C878A}|Business\\Business.csproj|solutionrelative:business\\interfaces\\iuserrolebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C743D5-F612-49D1-8ADD-23E8F10C878A}|Business\\Business.csproj|c:\\users\\angie\\onedrive\\documentos\\csharp\\modulesecurity\\business\\interfaces\\imodulebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C743D5-F612-49D1-8ADD-23E8F10C878A}|Business\\Business.csproj|solutionrelative:business\\interfaces\\imodulebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943E313B-5F0A-40D3-A58A-B9DAB0D21FB6}|Data\\Data.csproj|c:\\users\\angie\\onedrive\\documentos\\csharp\\modulesecurity\\data\\interfaces\\iuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943E313B-5F0A-40D3-A58A-B9DAB0D21FB6}|Data\\Data.csproj|solutionrelative:data\\interfaces\\iuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonBussiness.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Business\\Implements\\PersonBussiness.cs",
+              "RelativeDocumentMoniker": "Business\\Implements\\PersonBussiness.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Business\\Implements\\PersonBussiness.cs",
+              "RelativeToolTip": "Business\\Implements\\PersonBussiness.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:08:10.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Business\\Implements\\ViewBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Implements\\ViewBusiness.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Business\\Implements\\ViewBusiness.cs",
+              "RelativeToolTip": "Business\\Implements\\ViewBusiness.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:08:01.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPersonBussiness.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Business\\Interfaces\\IPersonBussiness.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IPersonBussiness.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Business\\Interfaces\\IPersonBussiness.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IPersonBussiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:03:14.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRoleBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Business\\Interfaces\\IUserRoleBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IUserRoleBusiness.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Business\\Interfaces\\IUserRoleBusiness.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IUserRoleBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:03:41.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IModuleBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Business\\Interfaces\\IModuleBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IModuleBusiness.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Business\\Interfaces\\IModuleBusiness.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IModuleBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:01:21.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserData.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Data\\Interfaces\\IUserData.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IUserData.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Data\\Interfaces\\IUserData.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IUserData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:57:17.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "06ec707a-3b75-41f9-81cf-b5c2dd1242ba",
+        "Display": 0,
+        "X": 334,
+        "Y": 7,
+        "Width": 532,
+        "Height": 674,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModuleBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Business\\Implements\\ModuleBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Implements\\ModuleBusiness.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Business\\Implements\\ModuleBusiness.cs",
+              "RelativeToolTip": "Business\\Implements\\ModuleBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:09:44.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Diagram\\DbModel.edmx",
+              "RelativeDocumentMoniker": "Diagram\\DbModel.edmx",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Documentos\\CSharp\\ModuleSecurity\\Diagram\\DbModel.edmx [Diagram1]",
+              "RelativeToolTip": "Diagram\\DbModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-26T22:43:56.273Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

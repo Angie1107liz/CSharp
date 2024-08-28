@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="97d77928da744f18982be020ee8470df" Name="Diagram1" ZoomLevel="93" >
+        <EntityTypeShape EntityType="DbModel.person" Width="1.5" PointX="0.875" PointY="1.125" />
+        <EntityTypeShape EntityType="DbModel.User" Width="1.5" PointX="3" PointY="1.125" />
+        <EntityTypeShape EntityType="DbModel.UserRole" Width="1.5" PointX="4.875" PointY="1.125" />
+        <EntityTypeShape EntityType="DbModel.Role" Width="1.5" PointX="6.875" PointY="1" />
+        <EntityTypeShape EntityType="DbModel.View" Width="1.5" PointX="11" PointY="1" />
+        <EntityTypeShape EntityType="DbModel.Module" Width="1.5" PointX="13.125" PointY="1.25" />
+        <EntityTypeShape EntityType="DbModel.RoleView" Width="1.5" PointX="8.875" PointY="1" />
+        <AssociationConnector Association="DbModel.UserRoleRole" />
+        <AssociationConnector Association="DbModel.personUser" />
+        <AssociationConnector Association="DbModel.UserUserRole" />
+        <AssociationConnector Association="DbModel.RoleRoleView" />
+        <AssociationConnector Association="DbModel.ViewRoleView" />
+        <AssociationConnector Association="DbModel.ViewModule" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

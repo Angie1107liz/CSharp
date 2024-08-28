@@ -1,0 +1,100 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net7.0\Bussines.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net7.0\Bussines.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net7.0\Bussiness.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net7.0\Bussiness.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net8.0\Business.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0\Business.GlobalUsings.g.cs" />
+    <Compile Include="obj\Release\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Release\net7.0\Bussines.AssemblyInfo.cs" />
+    <Compile Include="obj\Release\net7.0\Bussines.GlobalUsings.g.cs" />
+    <Compile Include="obj\Release\net7.0\Bussiness.AssemblyInfo.cs" />
+    <Compile Include="obj\Release\net7.0\Bussiness.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net7.0\Bussines.deps.json" />
+    <Content Include="bin\Debug\net7.0\Bussiness.deps.json" />
+    <Content Include="obj\Business.csproj.nuget.dgspec.json" />
+    <Content Include="obj\Bussines.csproj.nuget.dgspec.json" />
+    <Content Include="obj\Bussiness.csproj.nuget.dgspec.json" />
+    <Content Include="obj\Debug\net7.0\Bussines.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\net7.0\Bussiness.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net7.0\Bussines.dll" />
+    <None Include="bin\Debug\net7.0\Bussines.pdb" />
+    <None Include="bin\Debug\net7.0\Bussiness.dll" />
+    <None Include="bin\Debug\net7.0\Bussiness.pdb" />
+    <None Include="bin\Debug\net7.0\Data.dll" />
+    <None Include="bin\Debug\net7.0\Data.pdb" />
+    <None Include="bin\Debug\net7.0\Entity.dll" />
+    <None Include="bin\Debug\net7.0\Entity.pdb" />
+    <None Include="Bussiness.csproj" />
+    <None Include="obj\Business.csproj.nuget.g.props" />
+    <None Include="obj\Business.csproj.nuget.g.targets" />
+    <None Include="obj\Bussines.csproj.nuget.g.props" />
+    <None Include="obj\Bussines.csproj.nuget.g.targets" />
+    <None Include="obj\Bussiness.csproj.nuget.g.props" />
+    <None Include="obj\Bussiness.csproj.nuget.g.targets" />
+    <None Include="obj\Debug\net7.0\Bussines.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net7.0\Bussines.assets.cache" />
+    <None Include="obj\Debug\net7.0\Bussines.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net7.0\Bussines.dll" />
+    <None Include="obj\Debug\net7.0\Bussines.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net7.0\Bussines.pdb" />
+    <None Include="obj\Debug\net7.0\Bussiness.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net7.0\Bussiness.assets.cache" />
+    <None Include="obj\Debug\net7.0\Bussiness.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net7.0\Bussiness.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net7.0\Bussiness.csproj.Up2Date" />
+    <None Include="obj\Debug\net7.0\Bussiness.dll" />
+    <None Include="obj\Debug\net7.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net7.0\Bussiness.pdb" />
+    <None Include="obj\Debug\net7.0\refint\Bussines.dll" />
+    <None Include="obj\Debug\net7.0\refint\Bussiness.dll" />
+    <None Include="obj\Debug\net7.0\ref\Bussines.dll" />
+    <None Include="obj\Debug\net7.0\ref\Bussiness.dll" />
+    <None Include="obj\Debug\net8.0\Business.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0\Business.assets.cache" />
+    <None Include="obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\Release\net7.0\Bussines.AssemblyInfoInputs.cache" />
+    <None Include="obj\Release\net7.0\Bussines.assets.cache" />
+    <None Include="obj\Release\net7.0\Bussines.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Release\net7.0\Bussiness.AssemblyInfoInputs.cache" />
+    <None Include="obj\Release\net7.0\Bussiness.assets.cache" />
+    <None Include="obj\Release\net7.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\net8.0\" />
+    <Folder Include="bin\Release\net7.0\" />
+    <Folder Include="obj\Debug\net8.0\refint\" />
+    <Folder Include="obj\Debug\net8.0\ref\" />
+    <Folder Include="obj\Release\net7.0\refint\" />
+    <Folder Include="obj\Release\net7.0\ref\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Azure.DocumentDB.Core" Version="2.22.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Data\Data.csproj" />
+    <ProjectReference Include="..\Entity\Entity.csproj" />
+  </ItemGroup>
+
+</Project>
